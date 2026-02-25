@@ -1,0 +1,6 @@
+@AzureTableAPI_HostAddress = http://localhost:5226
+
+GET {{AzureTableAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
